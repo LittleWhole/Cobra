@@ -1,0 +1,14 @@
+{
+  "name": "Cobra",
+  "version": "0.0.1-alpha",
+  "private": true,
+  "license": "MIT",
+  "repository": "https://github.com/LittleWhole/Cobra",
+  "author": "LittleWhole",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
